@@ -1,0 +1,56 @@
+.todo-wrap {
+   max-width: 900px;
+   margin: 0 auto;
+}
+
+.todo-title {
+   height: 30px;
+   padding: 20px 100px;
+}
+
+.todo-input {
+   width: 300px;
+   height: 30px;
+}
+
+.todo-content {
+   list-style: none;
+   padding: 0;
+}
+
+.todo-content li {
+   position: relative;
+   height: 40px;
+   margin-bottom: 5px;
+   line-height: 36px;
+   padding: 0 15px;
+   background-color: bisque;
+   border: 1px solid black;
+   border-radius: 3px;
+}
+
+.todo-content li span {
+   float: right;
+   position: absolute;
+   border: 1px solid #000;
+   border-radius: 3px;
+   background: #e4c9a7;
+   width: 24px;
+   height: 24px;
+   right: 20px;
+   top: 7px;
+}
+
+.bg {
+   height: 40px;
+   background-color: aqua;
+   border: 1px solid black;
+}
+
+
+
+
+
+
+
+
