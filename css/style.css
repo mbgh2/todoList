@@ -21,7 +21,7 @@
 .todo-content li {
    position: relative;
    height: 40px;
-   margin-bottom: 5px;
+   margin-bottom: 10px;
    line-height: 36px;
    padding: 0 15px;
    background-color: bisque;
